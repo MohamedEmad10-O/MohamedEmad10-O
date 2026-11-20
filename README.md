@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohamed Emad Ghobashy 👋</h1>
-<h3 align="center">Aspiring AI Engineer · Machine Learning · Data Analysis</h3>
+<h3 align="center">Aspiring AI Engineer · Machine Learning</h3>
 
 <p align="center">
   <a href="mailto:mohamedemadhamedghobashy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
