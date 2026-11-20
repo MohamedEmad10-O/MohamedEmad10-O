@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohamed Emad Ghobashy 👋</h1>
-<h3 align="center">Aspiring AI Engineer · Machine Learning · Deep Learning · NLP · Computer Vision</h3>
+<h3 align="center">Aspiring AI Engineer · Machine Learning · Data Analysis</h3>
 
 <p align="center">
   <a href="mailto:mohamedemadhamedghobashy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -9,9 +9,8 @@
 ---
 
 ### 🧠 About Me
-- 🎯 Working toward becoming an **AI Engineer** — building end-to-end ML / DL solutions
-- 🎓 Graduation project: **SafeShift AI** — real-time workplace-safety monitoring from video using computer vision
-- 📚 Currently studying **Deep Learning** and **Natural Language Processing**
+- 🎯 Working toward becoming an **AI Engineer** — building end-to-end ML solutions
+- 🎓 Graduation project: **SafeShift AI** — real-time workplace-safety monitoring from video
 - 🏫 Completed the **NTI Machine Learning for Data Analysis** track
 - 📫 Reach me at **mohamedemadhamedghobashy@gmail.com**
 
@@ -21,7 +20,6 @@
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **ML / Data**  
@@ -31,11 +29,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
-
-**Deep Learning / CV / NLP**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 **Deployment & Tools**  
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
